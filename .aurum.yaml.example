@@ -1,0 +1,9 @@
+# Aurolabs CLI Configuration
+# Copy this to .aurolabs.yaml and add your key
+
+openai_api_key: sk-your-key-here
+
+# Optional settings
+# language: en          # en, sv, de, fr, etc.
+# depth: standard       # quick (5-10 min) or standard (15-30 min)
+# output: rapport.md    # output filename

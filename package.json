@@ -1,0 +1,34 @@
+{
+  "name": "aurum-compact",
+  "version": "1.0.0",
+  "description": "Agentic research engine. Searches reactively. Thinks before it writes. Open source.",
+  "bin": {
+    "aurum": "bin/aurum.js"
+  },
+  "type": "module",
+  "keywords": [
+    "ai",
+    "research",
+    "reports",
+    "intelligence",
+    "analysis",
+    "cli",
+    "openai",
+    "director",
+    "adversarial-review"
+  ],
+  "author": "Aurolabs AB <hello@aurolabs.ai>",
+  "license": "SEE LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurolabs-ai/aurum"
+  },
+  "homepage": "https://aurolabs.ai",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "openai": "latest",
+    "js-yaml": "^4.1.0"
+  }
+}
